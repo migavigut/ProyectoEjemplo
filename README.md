@@ -6,4 +6,4 @@ Aprendiendo a surfear por Github
 Documentación del desarrolador 2
 
 Documentacion añadida por desarrolador 1
-
+Arreglando el issue1 problema ventana
